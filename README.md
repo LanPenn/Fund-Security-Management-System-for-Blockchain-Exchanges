@@ -45,8 +45,15 @@
 - MetaMask 浏览器插件
 - 以太坊测试网账户（Sepolia）
 
-### 后端启动
+### 页面展示：
+<img width="735" height="404" alt="image" src="https://github.com/user-attachments/assets/bcbb3bdc-5edf-41fe-9aad-b3c108c9f224" />
+<img width="735" height="404" alt="image" src="https://github.com/user-attachments/assets/164b0146-34ba-4072-b0e9-279889b76d34" />
+<img width="703" height="664" alt="image" src="https://github.com/user-attachments/assets/dde13776-f983-4cbc-b2de-2dbd53b485f0" />
+<img width="689" height="413" alt="image" src="https://github.com/user-attachments/assets/d230acfb-b27a-4b16-962a-3dd774e8f97b" />
+<img width="635" height="422" alt="image" src="https://github.com/user-attachments/assets/bb383e4b-d72d-40ec-a413-ee67fcd5b8f6" />
+<img width="693" height="436" alt="image" src="https://github.com/user-attachments/assets/d9ee0d2d-ccb0-4ebd-9d68-570b983d4d31" />
 
+### 后端启动
 ```bash
 # 克隆项目
 git clone https://github.com/yourusername/your-repo-name.git
@@ -57,11 +64,3 @@ cd your-repo-name/backend
 
 # 运行 Spring Boot 应用
 mvn spring-boot:run
-结果展示：
-<img width="735" height="404" alt="image" src="https://github.com/user-attachments/assets/bcbb3bdc-5edf-41fe-9aad-b3c108c9f224" />
-<img width="735" height="404" alt="image" src="https://github.com/user-attachments/assets/164b0146-34ba-4072-b0e9-279889b76d34" />
-<img width="703" height="664" alt="image" src="https://github.com/user-attachments/assets/dde13776-f983-4cbc-b2de-2dbd53b485f0" />
-<img width="689" height="413" alt="image" src="https://github.com/user-attachments/assets/d230acfb-b27a-4b16-962a-3dd774e8f97b" />
-<img width="635" height="422" alt="image" src="https://github.com/user-attachments/assets/bb383e4b-d72d-40ec-a413-ee67fcd5b8f6" />
-<img width="693" height="436" alt="image" src="https://github.com/user-attachments/assets/d9ee0d2d-ccb0-4ebd-9d68-570b983d4d31" />
-
